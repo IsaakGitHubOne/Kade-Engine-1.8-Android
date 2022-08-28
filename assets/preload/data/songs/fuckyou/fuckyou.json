@@ -2809,11 +2809,11 @@
 		"gfVersion": "gf_JUICY",
 		"events": [],
 		"player3": "gf_but_not_juicy_enough",
-		"song": "Lo-Fight",
+		"song": "Fuck You",
 		"needsVoices": true,
 		"sections": 0,
 		"validScore": true,
-		"stage": "alley",
+		"stage": "stage",
 		"bpm": 120.5,
 		"speed": 2
 	}
