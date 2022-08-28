@@ -2,6 +2,7 @@ tutorial:gf:0
 bopeebo:dad:1
 fresh:dad:1
 dadbattle:dad:1
+fuckyou:dad:1
 spookeez:spooky:2
 south:spooky:2
 monster:monster:2
